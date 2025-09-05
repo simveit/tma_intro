@@ -1,3 +1,9 @@
+/*
+ * Based on examples from NVIDIA CUDA C++ Programming Guide
+ * https://docs.nvidia.com/cuda/cuda-c-programming-guide/
+ * Modified for educational purposes
+ */
+
 #include <cuda.h>  // CUtensormap
 #include <cuda_runtime.h>
 
